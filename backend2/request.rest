@@ -1,0 +1,27 @@
+GET http://localhost:5000/devices
+
+###
+GET http://localhost:5000/devices/2
+
+###
+POST http://localhost:5000/devices
+Content-Type: application/json
+
+{
+    "device": "ESP32 Wildan12",
+    "picture": "No Image.jpg",
+    "information": "Servo & Camera"
+}
+
+###
+PUT http://localhost:5000/devices/13_ESP32%20Wildan32111_2025032850905
+Content-Type: application/json
+
+{
+    "device": "ESP32 Wildan32111",
+    "pictur": "No Image.jpg",
+    "information": "Servo & Camera 2"
+}
+
+###
+DELETE http://localhost:5000/devices/37
