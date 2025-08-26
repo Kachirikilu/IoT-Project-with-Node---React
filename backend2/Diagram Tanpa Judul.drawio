@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2066" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1112" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,7 +214,7 @@
         <mxCell id="nMN_aLY4Aej-MGy4x1CU-79" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="48.439999999999884" y="2389.0699999999997" width="163.14" height="21.87" as="geometry" />
         </mxCell>
-        <mxCell id="nMN_aLY4Aej-MGy4x1CU-80" value="Tema dan Topik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nMN_aLY4Aej-MGy4x1CU-80" value="Perancangan Aplikasi Web untuk Mendukung Digitalisasi dan Implementasi RPS Menggunakan Metode Agile di Fakultas Teknik Universitas Sriwijaya" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1520" width="448.44" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nMN_aLY4Aej-MGy4x1CU-81" value="Ringkasan kritis terhadap riset sebelumnya yang relevan dengan topik" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
