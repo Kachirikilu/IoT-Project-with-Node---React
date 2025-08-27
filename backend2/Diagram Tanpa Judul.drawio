@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="149" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="539" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,22 +372,10 @@
           <mxGeometry x="960" y="1120" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69.99999999999999" y="2960" width="20" height="300" as="geometry" />
+          <mxGeometry x="80" y="2960" width="20" height="300" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-7" value="Tahap Awal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="45.27999999999997" y="3089.06" width="92.57" height="21.87" as="geometry" />
-        </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81.57" y="3280" width="20" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-9" value="Problem Identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="28.41999999999993" y="3388.13" width="126.29" height="21.87" as="geometry" />
-        </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="81.57" y="3600" width="20" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-11" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="9.999999999999858" y="3879.9999999999995" width="163.14" height="21.87" as="geometry" />
+          <mxGeometry x="43.71999999999997" y="3099.07" width="92.57" height="21.87" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-12" value="Pengoptimalisasi Aplikasi Web untuk Mendukung Digitalisasi dan Implementasi RPS Menggunakan Metode Agile di Fakultas Teknik Universitas Sriwijaya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2960" width="440" height="80" as="geometry" />
@@ -396,7 +384,7 @@
           <mxGeometry x="400" y="3100" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-14" value="10 Artikel riset dan tentukan riset gap dari artikel tersebut" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121.55999999999997" y="3280" width="280" height="140" as="geometry" />
+          <mxGeometry x="120" y="3280" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-15" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-12" target="2Rb1Rq0uL14Hy_rAvJgN-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -426,7 +414,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-20" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Proses penyusunan dan pengelolaan Rencana Pembelajaran Semester (RPS) di Fakultas Teknik Universitas Sriwijaya.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Fokus pada dosen, admin fakultas/jurusan, serta pihak pengelola sistem akademik.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Menggunakan metode Agile (Scrum/Kanban) sebagai pendekatan dalam perancangan dan implementasi aplikasi.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Proses pengembangan terbagi dalam sprint (iterasi singkat dengan feedback pengguna).&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="3200" width="321.56" height="240" as="geometry" />
+          <mxGeometry x="1160" y="3200" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-21" value="Kontribusi Penelitian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="3440" width="320" height="80" as="geometry" />
@@ -435,7 +423,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-22" value="In-depth Review pada&lt;div&gt;Penelitian terdahulu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121.55999999999997" y="3600" width="280" height="120" as="geometry" />
+          <mxGeometry x="120" y="3600" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-14" target="2Rb1Rq0uL14Hy_rAvJgN-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -457,7 +445,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-26" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Proses penyusunan dan pengelolaan Rencana Pembelajaran Semester (RPS) di Fakultas Teknik Universitas Sriwijaya.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Fokus pada dosen, admin fakultas/jurusan, serta pihak pengelola sistem akademik.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Menggunakan metode Agile (Scrum/Kanban) sebagai pendekatan dalam perancangan dan implementasi aplikasi.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Proses pengembangan terbagi dalam sprint (iterasi singkat dengan feedback pengguna).&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1161.56" y="3480" width="320" height="240" as="geometry" />
+          <mxGeometry x="1160" y="3480" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-27" target="2Rb1Rq0uL14Hy_rAvJgN-39">
           <mxGeometry relative="1" as="geometry">
@@ -469,7 +457,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-27" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bagaimana merancang aplikasi web untuk digitalisasi RPS?&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bagaimana penerapan metode Agile dalam pengembangan?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bagaimana aplikasi mendukung implementasi RPS di Fakultas Teknik?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801.56" y="3480" width="320" height="240" as="geometry" />
+          <mxGeometry x="800" y="3480" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-26" target="2Rb1Rq0uL14Hy_rAvJgN-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -484,15 +472,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-30" value="Fenomena&lt;div&gt;Penelitian&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561.56" y="3280" width="160" height="80" as="geometry" />
+          <mxGeometry x="560" y="3280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-13" target="2Rb1Rq0uL14Hy_rAvJgN-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="571.56" y="3240" as="sourcePoint" />
             <mxPoint x="621.56" y="3190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="561.56" y="3220" />
-              <mxPoint x="641.56" y="3220" />
+              <mxPoint x="560" y="3220" />
+              <mxPoint x="640" y="3220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -510,8 +498,8 @@
             <mxPoint x="851.56" y="3370" as="sourcePoint" />
             <mxPoint x="801.56" y="3260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="761.56" y="3320" />
-              <mxPoint x="761.56" y="3260" />
+              <mxPoint x="760" y="3320" />
+              <mxPoint x="760" y="3260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -520,8 +508,8 @@
             <mxPoint x="851.56" y="3370" as="sourcePoint" />
             <mxPoint x="901.56" y="3320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="761.56" y="3320" />
-              <mxPoint x="761.56" y="3380" />
+              <mxPoint x="760" y="3320" />
+              <mxPoint x="760" y="3380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -585,7 +573,7 @@
             <mxPoint x="320" y="3770" as="sourcePoint" />
             <mxPoint x="370" y="3720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="262" y="3760" />
+              <mxPoint x="260" y="3760" />
               <mxPoint x="500" y="3760" />
             </Array>
           </mxGeometry>
@@ -595,7 +583,7 @@
             <mxPoint x="480" y="3770" as="sourcePoint" />
             <mxPoint x="530" y="3720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="262" y="3760" />
+              <mxPoint x="260" y="3760" />
               <mxPoint x="760" y="3760" />
             </Array>
           </mxGeometry>
@@ -604,6 +592,18 @@
           <mxGeometry x="-0.9347" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79.99000000000052" y="3280" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-70" value="Problem Identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="26.850000000000417" y="3419.0699999999997" width="126.29" height="21.87" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80.00999999999999" y="3600" width="20" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-78" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="8.435000000000407" y="3889.0599999999995" width="163.14" height="21.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
