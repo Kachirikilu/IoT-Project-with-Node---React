@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1620" dy="2367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="540" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-7" value="Tahap Awal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="43.71999999999997" y="2999.06" width="92.57" height="21.87" as="geometry" />
         </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-12" value="&lt;div&gt;&lt;b&gt;Tema Penelitian&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Pengembangan Aplikasi Web untuk Digitalisasi dan Implementasi RPS dengan Integrasi Sistem Penilaian CPL Menggunakan Metode Agile (Studi Kasus: Fakultas Teknik Universitas Sriwijaya)" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-12" value="&lt;div&gt;&lt;b&gt;Tema Penelitian&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Pengembangan Aplikasi Web untuk Digitalisasi dan Implementasi RPS dengan Integrasi Sistem Penilaian CPL Menggunakan Metode Agile (Studi Kasus: Universitas Sriwijaya)" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
           <mxGeometry x="120" y="2880" width="440" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-13" value="&lt;div&gt;&lt;b&gt;Literature Review&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Penelitian terdahulu sebagian besar berfokus pada perancangan aplikasi web untuk digitalisasi RPS, seperti rancangan API dan dashboard akademik, namun belum mengintegrasikan sistem penilaian CPL, tugas, dan materi&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;" parent="1" vertex="1">
