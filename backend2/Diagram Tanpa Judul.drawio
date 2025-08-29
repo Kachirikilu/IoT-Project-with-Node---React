@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1944" dy="2840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="2367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,7 @@
         <mxCell id="CvN591IAjaY0gzyIxOoi-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="CvN591IAjaY0gzyIxOoi-20" target="CvN591IAjaY0gzyIxOoi-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1280" y="6195" />
+              <mxPoint x="1280" y="6205" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -739,7 +739,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-34" value="&lt;div&gt;&lt;b&gt;Signifikan Penilitan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Temuan sementara dari rencana pilot study ini menunjukkan potensi pengembangan aplikasi web yang mampu mendukung digitalisasi Rencana Pembelajaran Semester (RPS) sekaligus integrasi sistem penilaian Capaian Pembelajaran Lulusan (CPL) secara lebih efektif. Penelitian ini memiliki signifikansi pada dua aspek:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Aspek Ilmiah&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Memberikan kontribusi dalam bidang sistem informasi pendidikan, khususnya terkait digitalisasi kurikulum dan penerapan metode Agile dalam pengembangan perangkat lunak akademik. Penelitian ini dapat menjadi referensi awal bagi studi lanjutan mengenai integrasi penilaian CPL dengan sistem pembelajaran digital.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Aspek Praktis&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Menjadi dasar pengembangan sistem akademik yang lebih efisien di lingkungan Universitas Sriwijaya, dengan mendukung dosen dalam penyusunan dan distribusi RPS, serta membantu mahasiswa memahami hubungan antara RPS, CPL, tugas, dan materi. Selain itu, aplikasi ini berkontribusi pada peningkatan transparansi penilaian dan efektivitas manajemen pembelajaran di perguruan tinggi.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="6010" width="400" height="370" as="geometry" />
+          <mxGeometry x="860" y="6010" width="360" height="390" as="geometry" />
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-35" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Variable&lt;/b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;Variable Independen:&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;margin-left: 15px&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;NodeJS (backend)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ReactJS (frontend)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MySQL (database)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Prisma (ORM)&lt;/li&gt;&lt;/ul&gt;&lt;ol start=&quot;2&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Variable Dependen:&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul style=&quot;margin-left: 15px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Efektivitas Implementasi RPS&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Efisiensi Waktu &amp;amp; Proses&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Aksibilitas Data&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-10;spacingTop=12;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="5900" width="200" height="220" as="geometry" />
@@ -757,10 +757,10 @@
           <mxGeometry x="900" y="5740" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-40" value="&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;b&gt;Hipotesis&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;Penerapan metode Agile dalam perancangan aplikasi web dapat meningkatkan efektivitas proses digitalisasi RPS di Universitas Sriwijaya.&lt;/li&gt;&lt;li&gt;Aplikasi web akan memberikan kemudahan bagi dosen dalam penyusunan, pengelolaan, dan distribusi RPS.&lt;/li&gt;&lt;li&gt;Digitalisasi RPS dapat meningkatkan konsistensi dan keterpaduan antara RPS dengan proses pembelajaran.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-20;spacingRight=10;labelBackgroundColor=none;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="179.99999999999994" y="6140" width="200" height="240" as="geometry" />
+          <mxGeometry x="179.99999999999994" y="6160" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-41" value="Topik Final yang siap untuk diajukan, dapat diformulasikan juga sebagai usulan judul penelitian" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="499.49999999999994" y="6152.5" width="281" height="85" as="geometry" />
+          <mxGeometry x="499.49999999999994" y="6162.5" width="281" height="85" as="geometry" />
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-42" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CvN591IAjaY0gzyIxOoi-14" target="CvN591IAjaY0gzyIxOoi-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -787,7 +787,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-45" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="118.93" y="5580" width="20" height="800" as="geometry" />
+          <mxGeometry x="118.93" y="5580" width="20" height="820" as="geometry" />
         </mxCell>
         <mxCell id="CvN591IAjaY0gzyIxOoi-46" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="47.35500000000002" y="5929.07" width="163.14" height="21.87" as="geometry" />
