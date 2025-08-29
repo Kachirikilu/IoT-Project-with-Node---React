@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="441" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="404" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,12 +259,6 @@
         <mxCell id="nMN_aLY4Aej-MGy4x1CU-95" value="In-depth Review pada&lt;div&gt;Penelitian terdahulu&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="2160" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nMN_aLY4Aej-MGy4x1CU-96" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nMN_aLY4Aej-MGy4x1CU-82" target="nMN_aLY4Aej-MGy4x1CU-95" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="341.55999999999995" y="1980" as="sourcePoint" />
-            <mxPoint x="391.55999999999995" y="1930" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nMN_aLY4Aej-MGy4x1CU-97" value="Metodologi Penelitian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="2100" width="320" height="120" as="geometry" />
         </mxCell>
@@ -306,15 +300,6 @@
             <Array as="points">
               <mxPoint x="600" y="1780" />
               <mxPoint x="680" y="1780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nMN_aLY4Aej-MGy4x1CU-113" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="nMN_aLY4Aej-MGy4x1CU-93" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="1980" as="sourcePoint" />
-            <mxPoint x="480" y="1880" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="2040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -377,7 +362,7 @@
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-7" value="Tahap Awal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="43.71999999999997" y="3099.07" width="92.57" height="21.87" as="geometry" />
         </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-12" value="Pengoptimalisasi Aplikasi Web untuk Mendukung Digitalisasi dan Implementasi RPS Menggunakan Metode Agile di Fakultas Teknik Universitas Sriwijaya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-12" value="&lt;div&gt;&lt;b&gt;Tema &amp;amp; Topik&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Pengoptimalisasi Aplikasi Web untuk Mendukung Digitalisasi dan Implementasi RPS Menggunakan Metode Agile di Fakultas Teknik Universitas Sriwijaya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="2960" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-13" value="Ringkasan kritis terhadap riset sebelumnya yang relevan dengan topik" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
