@@ -560,7 +560,7 @@
           <mxGeometry x="280.01" y="4120" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-46" value="Topik Final yang siap untuk diajukan, dapat diformulasikan juga sebagai usulan judul penelitian" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="558.9999999999999" y="4240" width="268.44" height="80" as="geometry" />
+          <mxGeometry x="559" y="4240" width="281" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-54" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2Rb1Rq0uL14Hy_rAvJgN-22" target="2Rb1Rq0uL14Hy_rAvJgN-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -593,11 +593,11 @@
         <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-70" value="Problem Identification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="26.850000000000417" y="3419.0699999999997" width="126.29" height="21.87" as="geometry" />
         </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80.01" y="3600" width="20" height="710" as="geometry" />
+        <mxCell id="M-6RjRjtaTG-J9kCobxB-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79.99" y="3600" width="20" height="720" as="geometry" />
         </mxCell>
-        <mxCell id="2Rb1Rq0uL14Hy_rAvJgN-78" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="8.435000000000407" y="3919.9999999999995" width="163.14" height="21.87" as="geometry" />
+        <mxCell id="M-6RjRjtaTG-J9kCobxB-6" value="Finalizing Research Plan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="8.415000000000408" y="3949.0699999999997" width="163.14" height="21.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
