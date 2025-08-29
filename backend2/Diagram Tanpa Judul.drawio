@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1389" dy="2029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="2367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -651,7 +651,7 @@
         <mxCell id="M-6RjRjtaTG-J9kCobxB-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-244" target="M-6RjRjtaTG-J9kCobxB-258">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1241" y="6140" />
+              <mxPoint x="1241" y="6180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -729,40 +729,38 @@
         <mxCell id="M-6RjRjtaTG-J9kCobxB-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-256" target="M-6RjRjtaTG-J9kCobxB-264">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M-6RjRjtaTG-J9kCobxB-256" value="&lt;b&gt;Teori Terdahulu&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;IoT menjelaskan bagaimana perangkat fisik yang dilengkapi sensor, aktuator, dan konektivitas internet dapat saling berkomunikasi, mengumpulkan data, dan menjalankan fungsi otomatisasi. Fenomena keamanan rumah berbasis IoT dapat dijelaskan melalui teori ini, khususnya dalam konteks pervasive computing dan ubiquitous networking.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;spacingBottom=2;" vertex="1" parent="1">
-          <mxGeometry x="120.01" y="5800" width="240" height="200" as="geometry" />
+        <mxCell id="M-6RjRjtaTG-J9kCobxB-256" value="&lt;b&gt;Teori Terdahulu&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;Digitalisasi dalam pendidikan mencakup penggunaan teknologi informasi untuk mendukung proses akademik, termasuk pengelolaan kurikulum, penyimpanan dokumen, dan akses data pembelajaran. Menjadi dasar bahwa RPS dapat dialihkan ke bentuk digital agar lebih efisien, mudah diakses, dan terdokumentasi dengan baik.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;spacingBottom=2;" vertex="1" parent="1">
+          <mxGeometry x="120.01" y="5800" width="240" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="M-6RjRjtaTG-J9kCobxB-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-258" target="M-6RjRjtaTG-J9kCobxB-265">
+        <mxCell id="M-6RjRjtaTG-J9kCobxB-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-258" target="M-6RjRjtaTG-J9kCobxB-265">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="6140" />
-              <mxPoint x="850" y="6140" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="830" y="6180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M-6RjRjtaTG-J9kCobxB-258" value="Temuan sementara ini akan mengantarkanmu pada formulasi &quot;signifikasi penelitian&quot;." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="919.9999999999994" y="6080" width="280" height="120" as="geometry" />
+        <mxCell id="M-6RjRjtaTG-J9kCobxB-258" value="&lt;div&gt;&lt;b&gt;Signifikan Penilitan&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Temuan sementara ini akan mengantarkanmu pada formulasi &quot;signifikasi penelitian&quot;." style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="6080" width="340" height="200" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-259" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Variable&lt;/b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ol&gt;&lt;li&gt;Variable Independen:&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;margin-left: 15px&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;NodeJS (backend)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ReactJS (frontend)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MySQL (database)&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Prisma (ORM)&lt;/li&gt;&lt;/ul&gt;&lt;ol start=&quot;2&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Variable Dependen:&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul style=&quot;margin-left: 15px;&quot;&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Efektivitas Implementasi RPS&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Efisiensi Waktu &amp;amp; Proses&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Aksibilitas Data&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Kepuasan Pengguna&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-10;spacingTop=12;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="5800" width="220" height="240" as="geometry" />
+          <mxGeometry x="400" y="5800" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-261" target="M-6RjRjtaTG-J9kCobxB-263">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-261" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Data &amp;amp; Metode&lt;/b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ol&gt;&lt;li&gt;Data:&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul style=&quot;margin-left: 15px;&quot;&gt;&lt;li&gt;Wawancara dengan dosen dan pihak akademik terkait kebutuhan aplikasi RPS.&lt;/li&gt;&lt;li&gt;Kuisioner kepada mahasiswa/dosen terkait efektivitas akses RPS digital.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ol start=&quot;2&quot;&gt;&lt;li&gt;Metode:&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;ul style=&quot;margin-left: 15px;&quot;&gt;&lt;li&gt;Agile (Scrum Framework)&lt;/li&gt;&lt;li&gt;Dokumentasi &amp;amp; wawancara&lt;/li&gt;&lt;li&gt;Analisis kebutuhan sistem&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-20;spacingRight=10;spacingTop=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="5800" width="220" height="240" as="geometry" />
+          <mxGeometry x="640" y="5800" width="220" height="240" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-262" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-263" target="M-6RjRjtaTG-J9kCobxB-258">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-263" value="&lt;div&gt;&lt;b&gt;Pilot Study &amp;amp; Pilot Findings&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Setelah menentukan data dan metode, selanjutnya melakukan pilot study untuk memperoleh pilot findings" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="919.9999999999994" y="5840" width="280" height="160" as="geometry" />
+          <mxGeometry x="889.9999999999994" y="5840" width="280" height="160" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-264" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hipotesis&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Penerapan metode Agile dalam perancangan aplikasi web dapat meningkatkan efektivitas proses digitalisasi RPS di Fakultas Teknik Universitas Sriwijaya.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Aplikasi web berbasis Agile akan memberikan kemudahan bagi dosen dalam penyusunan, pengelolaan, dan distribusi RPS.&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Digitalisasi RPS dengan pendekatan Agile dapat meningkatkan konsistensi dan keterpaduan antara RPS dengan proses pembelajaran.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingLeft=-15;spacingRight=10;labelBackgroundColor=none;spacingTop=8;" vertex="1" parent="1">
-          <mxGeometry x="120" y="6040" width="240" height="240" as="geometry" />
+          <mxGeometry x="120.01" y="6020" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-265" value="Topik Final yang siap untuk diajukan, dapat diformulasikan juga sebagai usulan judul penelitian" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="558.9999999999995" y="6100" width="281" height="80" as="geometry" />
+          <mxGeometry x="518.9999999999995" y="6140" width="281" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M-6RjRjtaTG-J9kCobxB-266" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="M-6RjRjtaTG-J9kCobxB-238" target="M-6RjRjtaTG-J9kCobxB-259">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -770,7 +768,7 @@
             <mxPoint x="369.9999999999996" y="5600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="5760" />
-              <mxPoint x="510" y="5760" />
+              <mxPoint x="500" y="5760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -780,7 +778,7 @@
             <mxPoint x="529.9999999999995" y="5600" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="5760" />
-              <mxPoint x="770" y="5760" />
+              <mxPoint x="750" y="5760" />
             </Array>
           </mxGeometry>
         </mxCell>
